@@ -35,7 +35,7 @@ Health-E-Track is a web application designed to help users track their health re
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/health-e-track.git
+   git clone https://github.com/rishwanthvallala/health-e-track.git
    ```
 
 2. Open the project in a web browser or host it on a web server.
