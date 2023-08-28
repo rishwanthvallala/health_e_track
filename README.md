@@ -3,7 +3,7 @@
 
 Welcome to Health-E-Track, an online platform for tracking health reports.
 
-![Screenshot](/path/to/screenshot.png) <!-- Include a screenshot of your project if possible -->
+![Screenshot](screenshot.png) <!-- Include a screenshot of your project if possible -->
 
 ## Table of Contents
 
